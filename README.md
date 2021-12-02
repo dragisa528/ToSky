@@ -1,48 +1,10 @@
-Contribution: 2020-07-06 20:00
+# ToSky
 
-Contribution: 2020-07-06 20:01
+**The prototype of the game is open source. Unity Asset.**<br/>
+Features: infinite procedurally generated world, almost complete destructible of everything, a very large number of NPCs (up to 1000 in one star system), battles involving hundreds of NPC, gravity is an important game element.
 
-Contribution: 2020-07-07 20:00
+-------------------------------------------------------------------
 
-Contribution: 2020-07-08 20:00
-
-Contribution: 2020-07-08 20:01
-
-Contribution: 2020-07-09 20:00
-
-Contribution: 2020-07-10 20:00
-
-Contribution: 2020-07-10 20:01
-
-Contribution: 2020-07-10 20:02
-
-Contribution: 2020-07-13 20:00
-
-Contribution: 2020-07-13 20:01
-
-Contribution: 2020-07-14 20:00
-
-Contribution: 2020-07-15 20:00
-
-Contribution: 2020-07-15 20:01
-
-Contribution: 2020-07-17 20:00
-
-Contribution: 2020-07-17 20:01
-
-Contribution: 2020-07-17 20:02
-
-Contribution: 2020-07-20 20:00
-
-Contribution: 2020-07-22 20:00
-
-Contribution: 2020-07-22 20:01
-
-Contribution: 2020-07-22 20:02
-
-Contribution: 2020-07-23 20:00
-
-Contribution: 2020-07-23 20:01
-
-Contribution: 2020-07-23 20:02
-
+### Prerequisites
+To work on the project, you will need a Unity version of at least 2019.1.8 or higher (64-bit).<br/>
+Scripting Runtime Version - .net 4.x Equivalent 
